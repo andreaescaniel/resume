@@ -1,0 +1,27 @@
+footer{
+    color: white;
+    font-family: "Century Gothic";
+    font-style: oblique;
+}
+body{
+    font-family: "Century Gothic";
+    color: black;
+    background-image: url("bg.png");
+    background-attachment: fixed;
+
+}
+#header{
+    font-family: "Century Gothic";
+    color: black;
+
+
+
+}
+#hi{
+    font-family: "Century Gothic";
+}
+.card:hover{
+    box-shadow: 0 10px 20px rgba(255, 255, 255, 0.343), 0 4px 8px rgba(248, 247, 247, 0.319);
+    border: 1px solid black;
+
+}
